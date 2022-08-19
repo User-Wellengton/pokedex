@@ -1,0 +1,76 @@
+body{
+  background-color: rgb(209, 114, 6);
+}
+.titulo{
+  border:rgb(0, 0, 0) solid;
+background-color: rgb(218, 212, 206);
+display: flex;
+justify-content: center;
+margin-top: 1%;
+margin-bottom: 1%;
+border-radius: 16px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    display: flex;
+    align-items: center;
+  }
+
+.barra-pesquisa-total {
+  border:rgb(0, 0, 0) solid;
+  border-radius: 16px;
+background-color: rgb(228, 224, 224);
+display: flex;
+justify-content: center;
+
+}
+
+.barraPesquisa{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 5px;
+  height:30px;
+  width: 500px;
+}
+.btnPesquisar{
+margin: 10px;
+
+
+}
+.imgBtn{
+  margin: px;
+height: 40px;
+width: 40px;
+}
+
+
+.card{
+  border:rgb(0, 0, 0) solid;
+  margin: 2% 25%;
+  border-radius: 16px;
+  width: 50%;
+  height: 200px;
+  background-color: rgb(206, 214, 207);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+}
+
+.sub-card{ 
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.atributos{
+  margin-right: 10px;
+}
+
+
+
+
